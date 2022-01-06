@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # pdf_editor
 This is my open source project. I started it so I can learn more about pyqt, but also share what I've learned.
 
